@@ -1,5 +1,5 @@
 # This keyboard layout transformation pack will help UE users to quickly switch to the US layout without changing keyboard 
-The main use case would be for coding and maybe also any activites that relies on lot of english writting. 
+The main use case would be for coders or maybe also others activity that relies on lot of english writting. 
 
 ## Before / After
 
