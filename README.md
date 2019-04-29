@@ -43,7 +43,7 @@ The main use case would be for coders or maybe also other activities that rely o
 - Cameron Lowell Palmer for his tutorial about .icns icons linking with a keyboard layout, see https://superuser.com/a/814371 
 - Mathias Bynens for the space bar key (As I was unable to make it working with Uklele I copied the key from here https://github.com/mathiasbynens/custom.keylayout/blob/master/azerty/azerty.keylayout)
 - PC4YOU for the azerty mac keyboard picture 
-- bolonka-zwetna-von-der-laisbach.de for the US layout image
+- bolonka-zwetna-von-der-laisbach.de for the US keyboard layout image
 
 ## License
 [GPLv3](https://github.com/mathiasbynens/custom.keylayout/blob/master/azerty/LICENSE.txt)
