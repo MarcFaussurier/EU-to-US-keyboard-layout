@@ -12,7 +12,7 @@ The main use case would be for coding and maybe also any activites that relies o
 
 ## Tutorial
 
-**Install & use the layout: **
+**Install & use the layout:**
 
 - Open a new terminal (COMMAND + SPACE then type terminal then type enter)
 - Then enter this : git clone https://github.com/MarcFaussurier/EU-to-US-keyboard-layout.git && cd EU-to-US-keyboard-layout 
@@ -22,7 +22,7 @@ The main use case would be for coding and maybe also any activites that relies o
 - Go to "others" tab qnd choose ue-to-us then click "add"
 - Now to use it, click on the flag to the top-right corner of your screen to switch your layout 
 
-**Change your keyboard keys labels: **
+**Change your keyboard keys labels:**
 
 ## Credits / Tools used  
 - Ukelele (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) and VIM for layout creation 
