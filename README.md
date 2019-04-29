@@ -3,8 +3,8 @@ The main use case would be for coding and maybe also any activites that relies o
 
 ## Before / After
 
-[alt text](https://github.com/MarcFaussurier/EU-to-US-keyboard-layout/raw/master/Images/clavier-macbook-azerty.jpg "Before")
-[alt text](https://github.com/MarcFaussurier/EU-to-US-keyboard-layout/raw/master/Images/IMG_0206.jpg "After")
+![alt text](https://github.com/MarcFaussurier/EU-to-US-keyboard-layout/raw/master/Images/clavier-macbook-azerty.jpg "Before")
+![alt text](https://github.com/MarcFaussurier/EU-to-US-keyboard-layout/raw/master/Images/IMG_0206.jpg "After")
 
 
 ## Requirements 
