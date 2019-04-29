@@ -34,7 +34,7 @@ The main use case would be for coders or maybe also other activities that rely o
 
 **Change your keyboard keys labels:**
 - Print and/or draw the [Images/us-international-pc_1024x1024.png picture](https://github.com/MarcFaussurier/EU-to-US-keyboard-layout/raw/master/Images/us-international-pc_1024x1024.png)
-- Put some double sided tabe on all your keys like this: 
+- Put some double sided tape on all your keys like this: 
 ![alt text](https://github.com/MarcFaussurier/EU-to-US-keyboard-layout/raw/master/Images/IMG_0204.jpg "Keys placing")
 - Then put your key and finally apply single sided tape for a better key texture 
 
