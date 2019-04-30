@@ -1,0 +1,1 @@
+sudo cp Keyboard\ Layouts/* ~/Library/Keyboard\ Layouts

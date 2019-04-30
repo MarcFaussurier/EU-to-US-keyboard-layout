@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.3.0.249 on 2019-04-29 at 09:49 (CEST)-->
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-04-29 at 13:32 (CEST)-->
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-04-30 at 11:00 (CEST)-->
 <keyboard group="126" id="-10782" name="eu-to-us" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
