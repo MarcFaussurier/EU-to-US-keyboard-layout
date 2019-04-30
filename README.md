@@ -12,7 +12,7 @@ The main use case would be for coders or maybe also other activities that rely o
 - An ISO/IEC 9995 keyboard (Any European keyboard should be fine)
 - A printer for printing the key labels (Or a pencil/paper for drawing)
 - Single-sided tape 
-- Souble-sided tape
+- Double-sided tape
 
 ## Tutorial
 
