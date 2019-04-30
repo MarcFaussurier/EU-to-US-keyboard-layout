@@ -11,8 +11,8 @@ The main use case would be for coders or maybe also other activities that rely o
 - MacOS 10.2 or higher 
 - An ISO/IEC 9995 keyboard (Any European keyboard should be fine)
 - A printer for printing the key labels (Or a pencil/paper for drawing)
-- Single-sided tape 
-- Double-sided tape
+- Single-sided adhesive tape 
+- Double-sided adhesive tape
 
 ## Tutorial
 
@@ -34,9 +34,9 @@ The main use case would be for coders or maybe also other activities that rely o
 
 **Change your keyboard keys labels:**
 - Print and/or draw the [Images/us-international-pc_1024x1024.png picture](https://github.com/MarcFaussurier/EU-to-US-keyboard-layout/raw/master/Images/us-international-pc_1024x1024.png)
-- Put some double sided tape on all your keys like this: 
+- Put some double sided adhesive tape on all your keys like this: 
 ![alt text](https://github.com/MarcFaussurier/EU-to-US-keyboard-layout/raw/master/Images/IMG_0204.jpg "Keys placing")
-- Then put your key and finally apply single sided tape for a better key texture 
+- Then put your key and finally apply single sided adhesive tape for a better key texture 
 
 ## Credits / Tools used  
 - Ukelele (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) and VIM for layout creation 
