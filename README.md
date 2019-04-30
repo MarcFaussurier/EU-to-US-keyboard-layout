@@ -23,7 +23,7 @@ The main use case would be for coders or maybe also other activities that rely o
 - To install the layout : sudo cp Keyboard\ Layouts/* ~/Library/Keyboard\ Layouts 
 - To use the layout : press COMMAND + SPACE then type keyboard and press enter 
 - Go to input source, click the plus "+" symbol at the bottom of the window 
-- Go to "others" tab and choose ue-to-us then click "add"
+- Go to "others" tab and choose eu-to-us then click "add"
 ![alt text](https://github.com/MarcFaussurier/EU-to-US-keyboard-layout/raw/master/Images/Screen%20Shot%202019-04-29%20at%2013.53.56.png "Choose layout")
 - Now to use it, click on the flag to the top-right corner of your screen to switch your layout 
 ![alt text](https://github.com/MarcFaussurier/EU-to-US-keyboard-layout/raw/master/Images/Screen%20Shot%202019-04-29%20at%2013.54.01.png "Use layout")
